@@ -1,5 +1,5 @@
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Pheakdeykim&icon=10&color=13)](https://visitcount.itsvg.in) 
-🎨 I'm currently working on Building my portfolio and thinking about creating a small e-commerce website using either React or Blade template with Laravel.<br><br>💡 I'm looking to collaborate: Web design projects.<br><br>🔍 I seek help with Learning Typescript, Next.js, and backend development.<br><br>📚 I'm currently learning React.js, Tailwind CSS, and Laravel.<br><br>🤖 Fun fact: I like learning more about hacking, exploitation, viruses, and exploring new technologies, especially AI.
+🎨 💡 I'm looking to collaborate: Web design projects.<br><br>🔍 I seek help with Learning Typescript, Next.js, and backend development.<br><br>📚 I'm currently learning React.js, Tailwind CSS, and Laravel.<br><br>🤖 Fun fact: I like learning more about hacking, exploitation, viruses, and exploring new technologies, especially AI.
 
 
 ## 🌐 Socials:
