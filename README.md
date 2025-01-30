@@ -1,5 +1,5 @@
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=Pheakdeykim&icon=10&color=13)](https://visitcount.itsvg.in) 
-🎨 💡 I'm looking to collaborate: Web design projects.<br><br>🔍 I seek help with Learning Typescript, Next.js, and backend development.<br><br>📚 I'm currently learning React.js, Tailwind CSS, and Laravel.<br><br>🤖 Fun fact: I like learning more about hacking, exploitation, viruses, and exploring new technologies, especially AI.
+🎨 💡 I'm looking to collaborate: Web design projects.<br><br>📚 I'm currently learning React.js, Tailwind CSS, and Laravel.<br><br>🤖 Fun fact: I like learning more about exploring new technologies, and hacking, exploitation, viruses, especially AI.
 
 
 ## 🌐 Socials:
@@ -12,10 +12,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
 
 # 📊 GitHub Stats:
